@@ -10,7 +10,7 @@ AirWave is the **"touchless interconnection"** module in the Zienon touchless ge
 Typical scenario: the user makes a simple in-air motion to let a phone, TV, big screen, or smart-home device quickly establish a connection, eliminating remotes, QR codes, or tedious pairing.
 
 ## Demo Video
-<video src="./media/demo-airwave.mp4" controls muted></video>
+![demo-airwave](./media/demo-airwave.gif)
 
 ## Core Capabilities
 - **Gesture-triggered Connection**: A wave or similar motion initiates device connection

@@ -10,7 +10,7 @@ AirWave 是杭州智棱科技（Zienon）隔空手势交互系列中的**"隔空
 典型场景：用户做出简单的空中动作，即可让手机、电视、大屏或智能家居设备快速建立连接，省去遥控器、扫码或繁琐配对。
 
 ## 演示视频
-<video src="./media/demo-airwave.mp4" controls muted></video>
+![demo-airwave](./media/demo-airwave.gif)
 
 ## 核心能力
 - **手势触发连接**：挥手等动作即可发起设备连接
